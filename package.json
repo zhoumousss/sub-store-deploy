@@ -1,0 +1,1 @@
+{"description":"Sub-Store backend deployment wrapper (official bundle from sub-store-org/Sub-Store release 2.44.16)","engines":{"node":">=18"},"name":"sub-store-deploy","private":true,"scripts":{"start":"node launcher.js"},"version":"2.44.16"}
